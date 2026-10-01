@@ -62,6 +62,22 @@ The database contains 5 main tables:
 - Subqueries
 
 ## 📈 Key Analysis Areas
+## 📸 Project Screenshots
+
+### Database Schema
+![Database Schema](screenshots/database-schema.png)
+
+### Monthly Revenue Analysis
+![Monthly Revenue](screenshots/monthly-revenue.png)
+
+### Top 3 Products per Category
+![Top Products](screenshots/top-products.png)
+
+### Customer Lifetime Value (CLV)
+![Customer CLV](screenshots/customer-clv.png)
+
+### City-wise Top Spenders
+![City-wise Analysis](screenshots/city-top-spenders.png)
 
 ### Monthly Revenue
 Analyzed monthly revenue and order trends to understand sales performance over time.
